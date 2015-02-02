@@ -237,4 +237,4 @@ window.videojs.Hls.AacStream = function() {
   };
 };
 
-})(this);
+})(module && module.parent ? module.parent.exports : this);

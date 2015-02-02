@@ -438,4 +438,4 @@
     adts: 0x0f
   };
 
-})(window);
+})(module && module.parent ? module.parent.exports : window);

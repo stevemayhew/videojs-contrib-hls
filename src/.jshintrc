@@ -2,7 +2,8 @@
   "curly": true,
   "eqeqeq": true,
   "globals": {
-    "console": true
+    "console": true,
+    "module":true
   },
   "immed": true,
   "latedef": true,

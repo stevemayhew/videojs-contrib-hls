@@ -481,4 +481,4 @@
       } // switch
     };
   };
-})(this);
+})(module && module.parent ? module.parent.exports : this);

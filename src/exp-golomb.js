@@ -146,4 +146,4 @@ window.videojs.Hls.ExpGolomb = function(workingData) {
   this.loadWord();
 
 };
-})(this);
+})(module && module.parent ? module.parent.exports : this);
